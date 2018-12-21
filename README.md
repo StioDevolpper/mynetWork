@@ -1,0 +1,2 @@
+# mynetWork
+blokchain network config
